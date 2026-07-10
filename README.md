@@ -8,7 +8,7 @@ Ein Arduino-Projekt, das die Größe von C-Datentypen (`int`, `char`, `bool`, `d
 
 ## Verwendete Hardware
 
-![Foto von Komponenten](fotos/komponenten.jpeg)
+![Foto von Komponenten](fotos/komponenten.JPEG)
 
 - 4 LED-Dioden (möglicherweise unterschiedlicher Farben)
 - 4 330Ω Resistoren
