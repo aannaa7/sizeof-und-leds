@@ -25,7 +25,7 @@ Ein Arduino-Projekt, das die Größe von C-Datentypen (`int`, `char`, `bool`, `d
 
 1. **Die Versorgungsspannung mit den Breadboards verbinden** (5V und Masse).
    
-   ![Foto Schritt 1](fotos/1_versorgungsspannung.JPEG)
+   ![Foto Schritt 1](fotos/1 versorgungsspannung.JPEG)
 
 2. **Die LEDs mit dem Mikrocontroller verbinden.**
    
