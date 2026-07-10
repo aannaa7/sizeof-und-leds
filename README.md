@@ -16,7 +16,7 @@ Ein Arduino-Projekt, das die Größe von C-Datentypen (`int`, `char`, `bool`, `d
 - 2 10kΩ Resistoren
 - mindestens 1 Breadboard (leichter mit 2 Breadboards)
 - 16 Drähte
-- 1 Mikrocontroller (ich benutze Croduino 3 Basic, aber verschiedene Arduino-Mikrocontroller sind möglich)
+- 1 Mikrocontroller (ich benutze Croduino 3 Basic, aber verschiedene Arduino-Mikrocontroller sind auch kompatibel)
 - 1 Kabel, um den Mikrocontroller mit dem Computer zu verbinden
 
 ---
